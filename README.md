@@ -57,6 +57,7 @@ If something looks different, that's okay — we'll show examples for macOS, WSL
 - `practice/` — Hands-on exercises with step-by-step solutions and hints.
 - `scenarios/` — Real-world problems (server down, disk full) with walkthroughs and commands used to fix them.
 - `resources/` — Cheat sheets, interview questions, and extra reading.
+- `labs/` — Runnable hands-on labs using Docker Compose (demo Flask app, nginx reverse-proxy) and start/stop scripts. See `labs/README.md` for how to run the labs locally.
 - `slides/` — Slide material and lesson notes (useful for quick review).
 
 Start here if you're new: `installation/` → `linux-basics/01-what-is-linux.md` → `linux-commands/01-file-directory-commands.md` → `practice/01-beginner-tasks.md`.
@@ -84,8 +85,6 @@ Real output: shows the file with size & owner — now you can `cat` or `less` it
 - Day 2–4: `linux-basics/` (read with hands-on follow-along).
 - Day 5–8: `linux-commands/` — do 10 commands per day and try short exercises.
 - Week 2: `practice/` and `scenarios/` — apply what you've learned to realistic problems.
-
----
 
 ---
 
